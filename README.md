@@ -40,7 +40,7 @@ This project demonstrates basic Object-Oriented Programming (OOP) principles and
 
 ### Future Improvements
 
-Add a graphical user interface (Swing/JavaFX)
-Store data in a database (e.g., MySQL, SQLite) instead of in-memory
-Implement a REST API for external access
-Advanced search functionality (by author, title, etc.)
+- Add a graphical user interface (Swing/JavaFX)
+- Store data in a database (e.g., MySQL, SQLite) instead of in-memory
+- Implement a REST API for external access
+- Advanced search functionality (by author, title, etc.)
